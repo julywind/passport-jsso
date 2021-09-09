@@ -51,4 +51,4 @@ requested below.
 * Operating System: 
 * Node version: <!-- $ node -v -->
 * passport version: <!-- $ npm list passport -->
-* passport-local version: <!-- $ npm list passport-local -->
+* passport-sso version: <!-- $ npm list passport-sso -->

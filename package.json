@@ -1,10 +1,11 @@
 {
-  "name": "passport-local",
+  "name": "passport-sso",
   "version": "1.0.0",
   "description": "Local username and password authentication strategy for Passport.",
   "keywords": [
     "passport",
     "local",
+    "sso",
     "auth",
     "authn",
     "authentication",
@@ -18,14 +19,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-local.git"
+    "url": "git://github.com/julywind/passport-sso.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-local/issues"
+    "url": "http://github.com/julywind/passport-sso/issues"
   },
   "funding": {
     "type": "github",
-    "url": "https://github.com/sponsors/jaredhanson"
+    "url": "https://github.com/sponsors/julywind"
   },
   "license": "MIT",
   "licenses": [
