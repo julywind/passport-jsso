@@ -1,5 +1,5 @@
 {
-  "name": "passport-sso",
+  "name": "passport-jsso",
   "version": "1.0.0",
   "description": "Local username and password authentication strategy for Passport.",
   "keywords": [
